@@ -5,3 +5,5 @@ before
 commit
 
 Modify
+
+modify in feature2
